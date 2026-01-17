@@ -2,7 +2,7 @@
 
     public class Director extends Person {
 
-        int numberOfShows;
+        private final int numberOfShows;
 
 
 
